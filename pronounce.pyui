@@ -1,0 +1,56 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 29}, {421, 316}}",
+        "class" : "WebView",
+        "attributes" : {
+          "flex" : "WH",
+          "border_width" : 1,
+          "frame" : "{{108, 119}, {200, 200}}",
+          "uuid" : "96854BFB-771E-45C4-A5FF-6E8A9658FE64",
+          "class" : "WebView",
+          "scales_to_fit" : false,
+          "corner_radius" : 0,
+          "border_color" : "RGBA(0.063679,0.063679,0.063679,1.000000)",
+          "name" : "web"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {34, 30}}",
+        "class" : "Button",
+        "attributes" : {
+          "image_name" : "iob:close_circled_24",
+          "action" : "closeit",
+          "frame" : "{{171, 157}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "",
+          "uuid" : "498DAF22-C14D-4159-93FE-3C6F97027034",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "quit",
+          "font_size" : 21
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {421, 345}}",
+    "class" : "View",
+    "attributes" : {
+      "name" : "",
+      "enabled" : true,
+      "background_color" : "RGBA(0.780660,0.780660,0.780660,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
